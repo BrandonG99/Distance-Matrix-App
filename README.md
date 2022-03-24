@@ -1,7 +1,5 @@
 # Distance Matrix Delivery Routing App
 
-![Project Image](./images/delivery-app-img6.png)
-
 > A delivery app that showcases the best route for delivery drivers to take when dropping off multiple deliveries.
 
 ---
